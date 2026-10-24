@@ -1,0 +1,6 @@
+interface:
+  display_name: "Russo Skill"
+  short_description: "Исследование через проявленные взаимодействия"
+  default_prompt: "Используй $russo-skill, чтобы исследовать систему через проявленные взаимодействия до приписывания ей свойств и формы."
+policy:
+  allow_implicit_invocation: true
